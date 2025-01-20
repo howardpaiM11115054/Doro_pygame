@@ -2,4 +2,4 @@
 
 ## Demo
 
-[![game video][(https://img.youtube.com/vi/7H_hKI2ZYqU/0.jpg)](https://youtu.be/7H_hKI2ZYqU?si=S5fQbs7agUg38DrS)](https://youtube.com/shorts/Ot-scRMqHMo?si=tNCCTbWsQj2ynzMh)
+[![game video](https://youtube.com/shorts/Ot-scRMqHMo?si=tNCCTbWsQj2ynzMh)
